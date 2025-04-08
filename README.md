@@ -1,1 +1,0 @@
-# A-Number-After-a-Double-Reversal
